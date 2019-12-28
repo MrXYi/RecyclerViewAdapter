@@ -1,0 +1,2 @@
+include ':app', ':recycleviewadapterlib'
+rootProject.name='RecyclerViewAdapter'
